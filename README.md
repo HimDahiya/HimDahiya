@@ -12,6 +12,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:dahiyahimanshu27@gmail.com">
+    <img src="https://camo.githubusercontent.com/d101f20b6ce00992d5140f773f8361da2fc5b926f4cc17bb9bb6678632ab2eb8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d726564" data-canonical-src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" style="max-width: 100%;">
+  </a>
+  <a href="mailto:dahiyahimanshu27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
 </div>
 <div align="center">
