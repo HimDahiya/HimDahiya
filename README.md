@@ -1,5 +1,5 @@
 <h1>
-  Hey there Im Himanshu Dahiya
+  Hey! Im Himanshu Dahiya
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -20,19 +20,18 @@
   
   
 
-### About Me :
+### About Me 
 I am currently immersed in learning data analytics and system simulation, driven by a passion to contribute to data-driven decision-making. Dynamic and results-oriented engineering professional with a solid foundation in computer science and engineering and currently pursuing a Master of Engineering in Quality Systems Engineering at Concordia University, expected in 2025. Specializing in quality system design, optimization in lean engineering, data analytics, and cloud computing for business analytics.
-I am passionate about leveraging technology to drive business intelligence. Upskilling myself by pursuing ITIL Foundation and PL300 Certification.
+
 
 With a proven track record in functional QA testing, I have contributed to over 9 projects, enhancing software quality for applications like MS OneDrive and Snapchat through meticulous test case design, execution, and regression testing.
 
 I am eager to connect with professionals and organizations that share my passion for technology, quality assurance, and continuous improvement. Let's explore how we can drive success together.
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ :telescope: I am passionate about leveraging technology to drive business intelligence. Upskilling myself by pursuing ITIL Foundation and PL300 Certification. 
+ :seedling: learn-improve-evolve-repeat!
 
- :seedling: Exploring Technical Content Writing.
-
- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+ :zap: In my free time, I ventured through the exciting landscapes of software development, to pick up few tricks, and forge a path.
 
  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Himanshu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshudahiya-31/) 
 </div> 
@@ -52,6 +51,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimDahiya&layout=compact&theme=vision-friendly-dark)](https://github.com/HimDahiya/github-readme-stats)
-</div>
+
