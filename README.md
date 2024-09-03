@@ -21,16 +21,17 @@
   
 
 ### About Me 
-I am currently immersed in learning data analytics and system simulation, driven by a passion to contribute to data-driven decision-making. Dynamic and results-oriented engineering professional with a solid foundation in computer science and engineering and currently pursuing a Master of Engineering in Quality Systems Engineering at Concordia University, expected in 2025. Specializing in quality system design, optimization in lean engineering, data analytics, and cloud computing for business analytics.
+Dynamic and results-oriented engineering professional with a solid foundation in computer science and engineering and currently pursuing a Master of Engineering in Quality Systems Engineering at Concordia University, expected in 2025. Specializing in quality system design, optimization in lean engineering, data analytics, and cloud computing for business analytics.
 
 
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  
  :telescope: I am passionate about leveraging technology to drive business intelligence. Upskilling myself by pursuing ITIL Foundation and PL300 Certification.  
  
- :seedling: learn-improve-evolve-repeat!
+
 
  :zap: In my free time, I ventured through the exciting landscapes of software development, to pick up few tricks, and forge a path.
+
+  :seedling: learn-improve-evolve-repeat!
 
  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Himanshu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshudahiya-31/) 
 </div> 
