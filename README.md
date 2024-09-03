@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   Hey! Im Himanshu Dahiya
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -24,11 +24,10 @@
 I am currently immersed in learning data analytics and system simulation, driven by a passion to contribute to data-driven decision-making. Dynamic and results-oriented engineering professional with a solid foundation in computer science and engineering and currently pursuing a Master of Engineering in Quality Systems Engineering at Concordia University, expected in 2025. Specializing in quality system design, optimization in lean engineering, data analytics, and cloud computing for business analytics.
 
 
-With a proven track record in functional QA testing, I have contributed to over 9 projects, enhancing software quality for applications like MS OneDrive and Snapchat through meticulous test case design, execution, and regression testing.
-
-I am eager to connect with professionals and organizations that share my passion for technology, quality assurance, and continuous improvement. Let's explore how we can drive success together.
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
- :telescope: I am passionate about leveraging technology to drive business intelligence. Upskilling myself by pursuing ITIL Foundation and PL300 Certification. 
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ 
+ :telescope: I am passionate about leveraging technology to drive business intelligence. Upskilling myself by pursuing ITIL Foundation and PL300 Certification.  
+ 
  :seedling: learn-improve-evolve-repeat!
 
  :zap: In my free time, I ventured through the exciting landscapes of software development, to pick up few tricks, and forge a path.
