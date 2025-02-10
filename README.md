@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey! Im Himanshu Dahiya
+  Hey! I'm Himanshu Dahiya
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -7,48 +7,75 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
+<div align="left">
+  
+### About Me 
+I am a problem-solver at heart, transforming raw data into actionable insights and scalable solutions. With a Master of Engineering in Quality Systems Engineering from Concordia University, I specialize in cloud architectures, data pipelines, and intuitive visualizations that drive efficiency and innovation.
+
+From Python and SQL scripting to architecting AWS solutions and unlocking business value with Power BI and Tableau, I thrive on turning complexity into clarity. Technology is more than a tool—it’s a force for transformation, and I am committed to pushing boundaries, bridging business with tech, and making an impact through data-driven solutions.
+
+:telescope: Outside of tech, I enjoy simulating business processes for efficiency, breaking down real-world problems through data-driven decision-making, and exploring the intersection of technology and human behavior. If there’s a challenge that requires data, automation, and creativity, you can bet I’m already thinking about how to solve it. 
+
+:zap: I have a deep appreciation for cinema and storytelling, often analyzing films beyond their surface narratives. When I need to unplug, you’ll find me hiking in nature, discovering new places, or enjoying a great book with a cup of coffee. 
+
+:seedling: My mantra: **Learn → Improve → Evolve → Repeat!**
+
+:mailbox: How to reach me: <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/himanshudahiya-31/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:dahiyahimanshu27@gmail.com">
-    <img src="https://camo.githubusercontent.com/d101f20b6ce00992d5140f773f8361da2fc5b926f4cc17bb9bb6678632ab2eb8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d726564" data-canonical-src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
 </div>
-
-<div align="center">
-  
-  
-
-### About Me 
-Dynamic and results-oriented engineering professional with a solid foundation in computer science and engineering and currently pursuing a Master of Engineering in Quality Systems Engineering at Concordia University, expected in 2025. Specializing in quality system design, optimization in lean engineering, data analytics, and cloud computing for business analytics.
-
-
- 
- :telescope: I am passionate about leveraging technology to drive business intelligence. Upskilling myself by pursuing ITIL Foundation and PL300 Certification.  
- 
-
-
- :zap: In my free time, I ventured through the exciting landscapes of software development, to pick up few tricks, and forge a path.
-
-  :seedling: learn-improve-evolve-repeat!
-
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Himanshu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshudahiya-31/) 
 </div> 
 
-
+---
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <h3>🛠️ Tech Stack</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+
+  
 </div>
 
+---
 
+<div align="center">
+  <h3>🚀 Projects</h3>
+  <p>Here are some of the projects I’ve worked on:</p>
+  <ul align="left">
+    <li><strong>Data Visualization with Power BI:</strong> Designed interactive dashboards to visualize business performance metrics.</li>
+    <li><strong>Cloud Optimization on AWS:</strong> Optimized cloud infrastructure for cost efficiency and scalability.</li>
+    <li><strong>ETL Pipeline Development:</strong> Built and automated ETL pipelines for seamless data integration.</li>
+  </ul>
+</div>
+
+---
+
+<div align="center">
+  <h3>📜 Certifications</h3>
+  <ul align="left">
+    <li><strong>ITIL-4 Foundation Certification</strong></li>
+    <li><strong>Analytics for Business Intelligence</strong></li>
+    <li><strong>Data Visualization with Python</strong></li>
+    <li><strong>PwC - Power BI Job Simulation</strong></li>
+  </ul>
+</div>
+
+---
+
+<div align="center">
+  <h3>🌟 Fun Fact</h3>
+  <p>"The best way to predict the future is to create it." – Peter Drucker</p>
+</div>
