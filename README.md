@@ -10,13 +10,14 @@
 <div align="left">
   
 ### About Me 
-I am a problem-solver at heart, transforming raw data into actionable insights and scalable solutions. With a Master of Engineering in Quality Systems Engineering from Concordia University, I specialize in cloud architectures, data pipelines, and intuitive visualizations that drive efficiency and innovation.
+🚀 I am a problem-solver, turning raw data into actionable insights and scalable solutions. With a Master’s in Quality Systems Engineering from Concordia University, I specialize in cloud architectures, data pipelines, and intuitive visualizations that enhance efficiency and innovation.
 
-From Python and SQL scripting to architecting AWS solutions and unlocking business value with Power BI and Tableau, I thrive on turning complexity into clarity. Technology is more than a tool—it’s a force for transformation, and I am committed to pushing boundaries, bridging business with tech, and making an impact through data-driven solutions.
+💡 From Python and SQL scripting to AWS solutions and Power BI analytics, I simplify complexity through technology. I push boundaries, bridge business with tech, and create impact through data-driven solutions.
 
-:telescope: Outside of tech, I enjoy simulating business processes for efficiency, breaking down real-world problems through data-driven decision-making, and exploring the intersection of technology and human behavior. If there’s a challenge that requires data, automation, and creativity, you can bet I’m already thinking about how to solve it. 
+🔭 Beyond tech, I explore business process optimization, decision-making, and the intersection of technology and human behavior. If a challenge involves data, automation, and creativity, I’m already thinking about how to solve it.
 
-:zap: I have a deep appreciation for cinema and storytelling, often analyzing films beyond their surface narratives. When I need to unplug, you’ll find me hiking in nature, discovering new places, or enjoying a great book with a cup of coffee. 
+⚡ A film enthusiast at heart, I love analyzing cinema and storytelling beyond their surface narratives. To unwind, I enjoy hiking, discovering new places, and getting lost in a great book with coffee in hand.
+
 
 :seedling: My mantra: **Learn → Improve → Evolve → Repeat!**
 
