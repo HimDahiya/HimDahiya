@@ -67,6 +67,7 @@
   <h3>📜 Certifications</h3>
   <ul align="left">
     <li><strong>ITIL-4 Foundation Certification</strong></li>
+    <li><strong>IBM BI Foundations with SQL, ETL, and Data Warehousing Specialization<\strong></li>
     <li><strong>Analytics for Business Intelligence</strong></li>
     <li><strong>Data Visualization with Python</strong></li>
     <li><strong>PwC - Power BI Job Simulation</strong></li>
