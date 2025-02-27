@@ -65,7 +65,7 @@
   <h3>🚀 Projects</h3>
   <p>Here are some of the projects I’ve worked on:</p>
   <ul align="left">
-    <li><strong>Power BI:</strong> <a href="https://github.com/HimDahiya/Healthcare-Analytics-Dashboard">Healthcare Analytics Dashboard</a></li>
+    <li><strong>Power BI:</strong> <a href="https://github.com/HimDahiya/Healthcare-Analytics-Dashboard">Healthcare Analytics Dashboard</a></strong></li>
     <li><strong><a href="https://github.com/HimDahiya/Classification-of-Date-fruit-using-PCA-and-ML"> Classification of Date Fruits with Principal Component Analysis and Machine Learning Optimization Techniques  </a></strong></li>
     <li><strong>Cloud Optimization on AWS:</strong> Optimized cloud infrastructure for cost efficiency and scalability.</li>
     <li><strong>ETL Pipeline Development:</strong> Built and automated ETL pipelines for seamless data integration.</li>
