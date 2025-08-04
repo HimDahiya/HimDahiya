@@ -71,9 +71,9 @@
   <li><strong>Power BI:</strong> <a href="https://github.com/HimDahiya/Healthcare-Analytics-Dashboard">Healthcare Analytics Dashboard</a></strong></li>
 
   <!-- New items -->
-  <li><strong>Power BI Case Study:</strong> <a href="https://github.com/HimDahiya/Maven-Toy-Store-Analysis">Toy Store Revenue Analysis</a></strong></li>
-  <li><strong>Supply-Chain Optimisation:</strong> <a href="https://github.com/HimDahiya/Supply-Chain-Optimization">Interactive Dashboard & Pipeline</a></strong></li>
-  <li><strong>Job-Market Trends Explorer:</strong> <a href="https://github.com/HimDahiya/Job-Market-Trend-Explorer">Canadian Skill-Demand Analysis</a></strong></li>
+  <li><strong>Power BI Case Study:</strong> <a href="https://github.com/HimDahiya/Toy_Manufacturer_In_Mexico">Toy Store Revenue Analysis</a></strong></li>
+  <li><strong>Supply-Chain Optimisation:</strong> <a href="https://github.com/HimDahiya/Optimizing-supply-chains-with-predictive-analytics">Interactive Dashboard & Pipeline</a></strong></li>
+  <li><strong>Job-Market Trends Explorer:</strong> <a href="https://github.com/HimDahiya/data-science-salary-trends">Canadian Skill-Demand Analysis</a></strong></li>
   <li><strong>Date-Fruit Classifier:</strong> <a href="https://github.com/HimDahiya/Classification-of-Date-fruit-using-PCA-and-ML">PCA-Enhanced ML Model</a></strong></li>
 </ul>
 
