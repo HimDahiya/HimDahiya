@@ -81,9 +81,6 @@
 ---
 
 
-
----
-
 <div align="center">
   <h3>🌟 Fun Fact</h3>
   <p>"The best way to predict the future is to create it." – Peter Drucker</p>
