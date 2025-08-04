@@ -63,7 +63,7 @@
     <li><strong>PwC - Power BI Job Simulation</strong></li>
   </ul>
 </div>
-
+---
 <h3>🚀 Projects</h3>
 <p>Here are some of the projects I’ve worked on:</p>
 <ul align="left">
