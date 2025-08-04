@@ -62,9 +62,8 @@
     <li><strong>Data Visualization with Python</strong></li>
     <li><strong>PwC - Power BI Job Simulation</strong></li>
   </ul>
-</div>
----
-<div>
+</div> 
+
 <h3>🚀 Projects</h3>
 <p>Here are some of the projects I’ve worked on:</p>
 <ul align="left">
@@ -77,7 +76,7 @@
   <li><strong>Job-Market Trends Explorer:</strong> <a href="https://github.com/HimDahiya/data-science-salary-trends">Canadian Skill-Demand Analysis</a></strong></li>
   <li><strong>Date-Fruit Classifier:</strong> <a href="https://github.com/HimDahiya/Classification-of-Date-fruit-using-PCA-and-ML">PCA-Enhanced ML Model</a></strong></li>
 </ul>
-</div>
+
 
 ---
 
