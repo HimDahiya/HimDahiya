@@ -19,7 +19,10 @@
 :seedling: My mantra: **Learn → Improve → Evolve → Repeat!**
 
 :mailbox: How to reach me: <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/himanshudahiya-31/">
+  <a href = "https://himanshudahiya.dev/">
+   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white">  
+   </a>
+  <a href="https://www.linkedin.com/in/dahiyahimanshu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:dahiyahimanshu27@gmail.com">
