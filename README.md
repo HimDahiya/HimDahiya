@@ -64,16 +64,19 @@
   </ul>
 </div>
 
-<div align="center">
-  <h3>🚀 Projects</h3>
-  <p>Here are some of the projects I’ve worked on:</p>
-  <ul align="left">
-    <li><strong>Power BI:</strong> <a href="https://github.com/HimDahiya/Healthcare-Analytics-Dashboard">Healthcare Analytics Dashboard</a></strong></li>
-    <li><strong><a href="https://github.com/HimDahiya/Classification-of-Date-fruit-using-PCA-and-ML"> Classification of Date Fruits with Principal Component Analysis and Machine Learning Optimization Techniques  </a></strong></li>
-    <li><strong>Cloud Optimization on AWS:</strong> Optimized cloud infrastructure for cost efficiency and scalability.</li>
-    <li><strong>ETL Pipeline Development:</strong> Built and automated ETL pipelines for seamless data integration.</li>
-  </ul>
-</div>
+<h3>🚀 Projects</h3>
+<p>Here are some of the projects I’ve worked on:</p>
+<ul align="left">
+  <!-- Original item—unchanged -->
+  <li><strong>Power BI:</strong> <a href="https://github.com/HimDahiya/Healthcare-Analytics-Dashboard">Healthcare Analytics Dashboard</a></strong></li>
+
+  <!-- New items -->
+  <li><strong>Power BI Case Study:</strong> <a href="https://github.com/HimDahiya/Maven-Toy-Store-Analysis">Toy Store Revenue Analysis</a></strong></li>
+  <li><strong>Supply-Chain Optimisation:</strong> <a href="https://github.com/HimDahiya/Supply-Chain-Optimization">Interactive Dashboard & Pipeline</a></strong></li>
+  <li><strong>Job-Market Trends Explorer:</strong> <a href="https://github.com/HimDahiya/Job-Market-Trend-Explorer">Canadian Skill-Demand Analysis</a></strong></li>
+  <li><strong>Date-Fruit Classifier:</strong> <a href="https://github.com/HimDahiya/Classification-of-Date-fruit-using-PCA-and-ML">PCA-Enhanced ML Model</a></strong></li>
+</ul>
+
 
 ---
 
